@@ -1,3 +1,3 @@
-module github.com/DylanMrr/GoCache/v1.2
+module github.com/DylanMrr/GoCache
 
 go 1.16
