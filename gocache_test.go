@@ -7,6 +7,7 @@ import (
 	gocache "github.com/DylanMrr/GoCache"
 )
 
+//testing
 func TestGetAdd(t *testing.T) {
 	cycle := 100 * time.Millisecond
 	defaultExpires := 5 * time.Millisecond
