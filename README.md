@@ -2,13 +2,15 @@
 Simple in-memory key-value cache with default or specific expiration time.
 
 # Install
-
+```
+go get github.com/DylanMrr/GoCache
+```
 # Features
 - Key-value storage
 - Expiration time can be set as default, permanent or specific
 - Native golang
 
-#Usage
+# Usage
 - Creating
 ```
 //New cache
